@@ -59,5 +59,7 @@ class ViewController: UIViewController {
         }
     }
    
+    @IBAction func sqrt(_ sender: Any) {
+    }
 }
 

@@ -148,6 +148,9 @@
                                         <rect key="frame" x="1" y="446.5" width="92.5" height="110.5"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
                                         <state key="normal" title="√"/>
+                                        <connections>
+                                            <action selector="sqrt:" destination="BYZ-38-t0r" eventType="touchUpInside" id="v3U-mA-mpj"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rPJ-Kd-sjX">
                                         <rect key="frame" x="94.5" y="446.5" width="92.5" height="110.5"/>
